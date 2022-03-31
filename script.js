@@ -15,3 +15,4 @@ function doMathClicked() {
   const sidec = parseInt(document.getElementById('sidec-of-trapezoid').value)
   const sided = parseInt(document.getElementById('sided-of-trapezoid').value)
   const height = parseInt(document.getElementById('height-of-trapezoid').value)
+}
