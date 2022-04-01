@@ -6,7 +6,6 @@
 /**
 * Does basic math
 */
-
 function doMathClicked() {
   // this function does basic math
   // input
